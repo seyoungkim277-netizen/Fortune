@@ -275,5 +275,5 @@ status
 - 기획 산출물에 약어 사용 시 풀네임과 설명 추가 
 
 ## 워크플로우 진행상황
-- create: Phase5
+- create: Done
 - prepare: Done
